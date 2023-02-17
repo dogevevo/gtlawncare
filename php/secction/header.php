@@ -116,25 +116,25 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                 <div id="navbar" class="navbar-nav-wrapper pull-right">
                     <ul class="nav navbar-nav navbar-right" id="responsive-menu">
                         <li  class="active">
-                            <a href="index.php">Home <i class="fa fa-angle-down"></i></a>
+                            <a href="index.php">Home  </a>
                             
                             
                         </li>
                         <li>
-                            <a href="services.php">Services<i class="fa fa-angle-down"></i></a>
+                            <a href="services.php">Services</i></a>
                             
                         </li>            
                         <li>
-                            <a href="about.php">About Us<i class="fa fa-angle-down"></i></a>
+                            <a href="about.php">About Us</a>
                             
                         </li>
                         <li>
-                            <a href="Gallery.php">Gallery<i class="fa fa-angle-down"></i></a>
+                            <a href="Gallery.php">Gallery </a>
                             
                         </li>
                         
                         <li>
-                            <a href="contact.php">Contact Us <i class="fa fa-angle-down"></i></a>
+                            <a href="contact.php">Contact Us  </a>
                               
                         </li>
 
