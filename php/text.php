@@ -43,6 +43,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Promoviendo el cafe organico para cuidar de nuestra salud.",
 	);
 	
+	$gall = "Bubba likes to appear out of thin air.";
 
 
  
@@ -151,7 +152,9 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 
 	);
 
-
+	// footer text
+	
+	$footer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
 
 $Small = array(		 
 	"10",

@@ -16,7 +16,7 @@
 
             <div class="row">
                 <div class="col-md-5 col-sm-12 col-xs-12 mission-image">
-                    <div class="choose-image"><img src="img/pic1.png" alt="mission-image"></div>
+                    <div class="choose-image"><img src="img/img1.png" alt="mission-image"></div>
                 </div>
                 <div class="col-md-7 col-sm-12 col-xs-12  wow slideInRight mission-list">
 

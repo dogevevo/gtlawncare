@@ -7,7 +7,7 @@
                         <a href="index.html">
                             <img src="img/c-logo.png" alt="Logo">
                         </a>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <p> <?php echo $footer ?></p>
 
                         <h4>Follow Us on</h4>
                         <ul class="social_icons">
@@ -109,16 +109,16 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="copy_txt">
-                            <p>&copy; Copyright 2019 - Nirman All rights Reserved</p>
+                            <p>&copy; Copyright 2019 - GT-LAWNCARE All rights Reserved</p>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="made_txt">
                            <ul class="pull-right">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">News</a></li>
-                                <li><a href="#">Privacy Policy</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="gallery.php">Gallery</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>

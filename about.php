@@ -37,7 +37,7 @@
 
                     <div class="col-md-6 col-sm-12">
                         <div class="about-img">
-                            <img src="img/project/bw12.jpg">
+                            <img src="img/project/2.jpg">
                         </div>
                     </div>
 

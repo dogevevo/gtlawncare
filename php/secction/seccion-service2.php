@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-                 
+                  
             <div class="row slider-services1">
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box text-center">

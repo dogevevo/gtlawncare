@@ -1,7 +1,7 @@
 <?php include('php/secction/header.php') ?>
 <?php include('php/secction/slider.php') ?>
 <?php include('php/secction/seccion-about0.php') ?>
-<!-- <--?php include('php/secction/seccion-about1.php') ?---> -->
+<!-- <--?php include('php/secction/seccion-about1.php') ?---> 
 <?php include('php/secction/seccion-service2.php') ?>
 <?php include('php/secction/ChooseUs.php') ?>
 <?php include('php/secction/seccion-gallery.php') ?>

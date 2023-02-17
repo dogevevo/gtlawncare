@@ -30,7 +30,7 @@
                 
                     <div class="col-md-4 col-sm-6 col-xs-6">
                         <div class="box mar-bottom-30 text-center">
-                            <img src="img/blog-listing/1.jpg" alt="services-1">
+                            <img src="img/blog-listing/s1.jpg" alt="services-1">
                             <div class="box-content">
                                 <h3><a href="#"><?php echo $SN[0] ?></a></h3>
                                 <p> <?php echo $SD[4] ?> </p>
@@ -40,7 +40,7 @@
                 
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/blog_13.jpg" alt="services-2">
+                        <img src="img/blog-listing/2.png" alt="services-2">
                         <div class="box-content">
                             <h3><a href="#"><?php echo $SN[1] ?></a></h3>
                             <p> <?php echo $SD[4] ?> </p>
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/blog_10.jpg" alt="services-3">
+                        <img src="img/blog-listing/3.jpg" alt="services-3">
                         <div class="box-content">
                             <h3><a href="#"><?php echo $SN[2] ?></a></h3>
                             <p> <?php echo $SD[4] ?> </p>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/blog_11.jpg" alt="services-4">
+                        <img src="img/blog-listing/4.jpg" alt="services-4">
                         <div class="box-content">
                             <h3><a href="#"><?php echo $SN[3] ?></a></h3>
                             <p> <?php echo $SD[4] ?> </p>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/blog_14.jpg" alt="services-5">
+                        <img src="img/blog-listing/5.jpg" alt="services-5">
                         <div class="box-content">
                             <h3><a href="#"><?php echo $SN[4] ?></a></h3>
                             <p> <?php echo $SD[4] ?> </p>
@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/blog_12.jpg" alt="services-6">
+                        <img src="img/blog-listing/6.jpg" alt="services-6">
                         <div class="box-content">                              
                             <h3><a href="#"><?php echo $SN[5] ?></a></h3>
                             <p> <?php echo $SD[4] ?> </p>

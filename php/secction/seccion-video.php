@@ -1,7 +1,7 @@
 <section id="mt_get_started">
         <div class="container">
             <div class="watch_inner">
-                <img src="img/watch_inner.jpg" alt="">
+                <img src="img/show.png" alt="">
                 <div class="watch_content">
                     <h3 class="white"><?php echo $Video_Text[0]  ?></h3>
                     <h2 class="white"><?php echo $Video_Text[1]  ?></h2>

@@ -27,7 +27,7 @@
                         </a>
                       </div>
                     </div>
-
+ 
                     <div class="col-md-6 col-sm-6 col-xs-12">
                       <div class="project-image">
                         <a href="img/project/gall/2.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">

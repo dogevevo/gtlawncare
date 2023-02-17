@@ -15,22 +15,25 @@
 
             <div class="row slider-partner">
                 <div class="col-sm-2">
-                    <img src="img/partner/p-1.png" alt="partner">
+                    <img src="img/partner/angi.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/p-2.png" alt="partner">
+                    <img src="img/partner/yelp.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/p-3.png" alt="partner">
+                    <img src="img/partner/thum.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/p-4.png" alt="partner">
+                    <img src="img/partner/home.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/p-5.png" alt="partner">
+                    <img src="img/partner/manta.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/p-6.png" alt="partner">
+                    <img src="img/partner/crai.png" alt="partner">
+                </div>
+                <div class="col-sm-2">
+                    <img src="img/partner/Yah.png" alt="partner">
                 </div>
             </div>
 
