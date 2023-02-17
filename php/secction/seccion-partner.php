@@ -6,10 +6,9 @@
                     <!-- section title -->
                     <div class="section_heading">
                         <h2 class="section_title">
-                            <span>Super Partner</span>
+                            <span><?php echo $Partner[0]?></span>
                         </h2>
-                        <p class="heading_txt">There are variations available majoritaey suffered alteration words which look believable 
-                        dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
+                        <p class="heading_txt"> <?php echo $Partner[1]?>  </p>
                     </div>
                 </div>
             </div>

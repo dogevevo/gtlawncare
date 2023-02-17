@@ -9,13 +9,13 @@
     <!-- First Slide -->
     <div class="item active">
         <!-- Slide Background -->
-        <img src="img/slider/slide-4.jpg" alt="slider_01" />
+        <img src="img/slider/3.jpg" alt="slider_01" />
         <!-- Left Slide Text Layer -->
         <div class="caption_slide1 fadeInRight" data-animation="animated fadeInRight">
             <span class="white">Experts in Field</span>
             <h1 class="white">We Plan Your Big Dreams</h1>
             <p class="white mar-bottom-25">Lorem ipsum dolor sit amet, consectetur adipisicing elit, do eius mod tempor incididunt ut labore et dolore magna aliqua</p>
-            <a href="#" class="btn mt_btn_yellow">View Services</a>
+            <a href="services.php" class="btn mt_btn_yellow">View Services</a>
         </div><!-- /Left Slide Text Layer -->
     </div><!-- /item -->
     <!-- End of Slide -->
@@ -23,7 +23,7 @@
     <!-- Second Slide -->
     <div class="item">
         <!-- Slide Background -->
-        <img src="img/slider/slide-5.jpg" alt="slider_02" />
+        <img src="img/slider/1.jpg" alt="slider_02" />
         <!-- Right Slide Text Layer -->
         <div class="caption_slide1 wow fadeInUp" data-animation="animated fadeInLeft">
             <span class="white">Experts in Field</span>
@@ -37,7 +37,7 @@
     <!-- Third Slide -->
     <div class="item">
         <!-- Slide Background -->
-        <img src="img/slider/slide-6.jpg" alt="slider_03" />
+        <img src="img/slider/2.jpg" alt="slider_03" />
         <!-- Center Slide Text Layer -->
         <div class="caption_slide1 wow fadeInDown" data-animation="animated fadeInDown">
             <span class="white">Team You Want </span>

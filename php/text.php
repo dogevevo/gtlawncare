@@ -34,7 +34,9 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	
 //Phrases
 	$Description="Cafe Jinotegano Las Praderas gracias al clima, tecnicas de cultivo y posicion geografica, obtenemos una selecta y magnifica mezcla de cafe.";	
- 	$Phrase = array(
+ 	
+	//Slide show frases :) 
+	$Phrase = array(
 		"Nuestra reputacion ha sido construida por nuestro producto de calidad.",
 		"Cultivo Organico y excelentes resultados.",
 		"Orgullo en lo que hacemos y en nuestro equipo de cultivo.",
@@ -43,29 +45,29 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	
 
 
-
-	//Home  etc.
+ 
+	//Home  etc. 
 	$Home = array(		 
 		"En Cafe Jinotegano las Praderas, Muchos de nuestros clientes Vienen a nosotros por nuestros productos naturales 100% organicos asi como tambien por nuestra experiencia en cuanto a cafe respecta.",
 		"Asi que durante el tiempo que toma en que ellos nos encuentren, Pueden sentirse aliviados, sabiendo que encontraron la mejor solucion para las mañanas en sus casas. En Cafe Jinotegano Las Praderas, no nos excedemos en nuestro en cuanto al precio, Ofrecemos diferentes tipos de cafe de calidad que te daran esa energia que buscas para salir de tu casa con energias siempre y en las mejores condiciones.",
 		"por varios años, nos hemos dedicado en dar lo mejor de lo mejor en todo lo que hacemos y como lo hacemos en cuanto a nuestros cultivos y cosechas de cafe para brindarle a todos nuestros queridos clientes lo mejor de lo mejor. Desde nuestra Fundacion en Jinotega, Cafe Las Praderas ha logrado mantener siempre una sonrisa en el rostro de nuestros clientes, y podemos estar seguros de que usted no sera la excepcion.",		
-	);
+		);
 
-	
-	
-	//About
+		
 	$About = array(
 		"We individually assess each <br> plan and offer optimal solutions",
 		"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexe rc itation ullamco laboris nisi ut aliquip ex ea com modo consequat. Duis aute irure.",
-	);
+		);
 		
+
+   
 	
 	//services index parraf
+	
 	$Services_Parraf = array(
 		"What You Will Get Form Us Check It",
 		"There are variations available majoritaey suffered alteration words which look believable  dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.",
 	);
-
 
 	//Services index categories 
 	$SN[0]="Lawncare Service General ";
@@ -81,43 +83,37 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SN[5]="DriveWays Concrete";
 	$SD[5]="Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..";
 	
-
-	//ChooseUs
-	$ChooseT[0] = "Team Of Professional";
+	//Choose Us
+	$ChooseT[0] = "Perfect Interior";
 	$Choose[0] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
-	$ChooseT[1] = "Full Of Services";
+	$ChooseT[1] = "Team Of Professional";
 	$Choose[1] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
-	$ChooseT[2] = "27/7 Support";
+	$ChooseT[2] = "Full Of Services";
 	$Choose[2] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
-	$ChooseT[3] = "Unique Technology";
+	$ChooseT[3] = "27/7 Support";
 	$Choose[3] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
-	$ChooseT[4] = "Attractive Building";
+	$ChooseT[4] = "Unique Technology";
 	$Choose[4] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
-	$ChooseT[5] = "Perfect Interior";
-	$Choose[5] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$ChooseT[5] = "Attractive Building";
+	$Choose[5] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions."; 
 
-	// VIDEO
+	// seccion video
 
-	$video = array (
+	$Video_Text = array(
 		"We Build, Your Dream",
 		"Quality Comes First",
 		"To develop a financial strategy for your future, it's important for your financial professional to see a complete, 360-degree view of your financial picture, including how your retirement assets are intadfegrated and work with one another.",
+		"",
 	);
 
+	//seccion gallery index
+	// fAaltante :) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+	//partner
+	$Partner = array(
+		"Super Partner",
+		"There are variations available majoritaey suffered alteration words which look believable dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.",
+	);
 
 
 

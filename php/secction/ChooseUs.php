@@ -24,48 +24,48 @@
                         <div class="col-sm-6">
                             <div class="choose-list mar-bottom-30">
                                 <i class="fa fa-users"></i>
-                                <h3><?php echo $ChooseT[0]  ?></h3>
-                                <p><?php echo $Choose[0]  ?></p>
+                                <h3><?php echo $ChooseT[0] ?></h3>
+                                <p><?php echo $Choose[0] ?></p>
                             </div>
                         </div>
 
                         <div class="col-sm-6">
                             <div class="choose-list mar-bottom-30">
                                 <i class="fa fa-paint-brush"></i>
-                                <h3><?php echo $ChooseT[1]  ?></h3>
-                                <p><?php echo $Choose[1]  ?></p>
+                                <h3><?php echo $ChooseT[1] ?></h3>
+                                <p><?php echo $Choose[1] ?></p>
                             </div>
                         </div>
 
                         <div class="col-sm-6">
                             <div class="choose-list mar-bottom-30">
                                 <i class="fa fa-phone"></i>
-                                <h3><?php echo $ChooseT[2]  ?></h3>
-                                <p><?php echo $Choose[2]  ?></p>
+                                <h3><?php echo $ChooseT[2] ?></h3>
+                                <p><?php echo $Choose[2] ?></p>
                             </div>
                         </div>
 
                         <div class="col-sm-6">
                             <div class="choose-list mar-bottom-30">
                                 <i class="fa fa-cogs"></i>
-                                <h3><?php echo $ChooseT[3]  ?></h3>
-                                <p><?php echo $Choose[3]  ?></p>
+                                <h3><?php echo $ChooseT[3] ?></h3>
+                                <p><?php echo $Choose[3] ?></p>
                             </div>
                         </div>
 
                         <div class="col-sm-6">
                             <div class="choose-list">
                                 <i class="fa fa-building"></i>
-                                <h3><?php echo $ChooseT[4]  ?></h3>
-                                <p><?php echo $Choose[4]  ?></p>
+                                <h3><?php echo $ChooseT[4] ?></h3>
+                                <p><?php echo $Choose[4] ?></p>
                             </div>
                         </div>
 
                         <div class="col-sm-6">
                             <div class="choose-list">
                                 <i class="fa fa-picture-o"></i>
-                                <h3><?php echo $ChooseT[5]  ?></h3>
-                                <p><?php echo $Choose[5]  ?></p>
+                                <h3><?php echo $ChooseT[5] ?></h3>
+                                <p><?php echo $Choose[5] ?></p>
                             </div>
                         </div>
                     </div>

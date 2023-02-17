@@ -49,9 +49,9 @@
 }
 
 .top-bar-left ul li {
-    font-size: 14px;
+    font-size: 20px;
     border-left: 1px solid #cccccc40;
-    color: #fbfbfb;
+    color: #FFF;
     font-weight: 300;
     padding: 16px 0 16px 20px;
     margin-left: 20px;
@@ -147,7 +147,7 @@ background-color: #FFFFFF !important;
 .navbar.navbar-default .navbar-collapse ul.nav.navbar-nav li:last-child {border-bottom: none; } 
 
 .navbar.navbar-default .navbar-collapse ul.nav.navbar-nav li a, #inner-navigation .nav.navbar-nav > li > a {
-  font-size: 16px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   color: #FFF;
@@ -397,13 +397,13 @@ background-color: #FFFFFF !important;
 }
 
 #inner-navigation .nav.navbar-nav li a:hover, #inner-navigation  .nav.navbar-nav li.active > a{
-    color: #ffac00;
+    color: #fff;
     text-decoration: none;
     background: transparent;
 }
 
 #inner-navigation .nav.navbar-nav li a.mt_btn_yellow:hover{
-  background:#ffac00;
+  background: #b13535;
   color: #fff;
 }
 
@@ -553,7 +553,7 @@ background-color: #FFFFFF !important;
   background: #fff;
   position: fixed;
   top: 0;
-  box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #000;
 }
 
 #inner-navigation .navbar-sticky-in.navbar-default ul.nav.navbar-nav li a, 
@@ -566,7 +566,7 @@ background-color: #FFFFFF !important;
 #inner-navigation .navbar-sticky-in.navbar-default .nav.navbar-nav > li > a:hover,
 #inner-navigation .navbar-sticky-in.navbar-default .nav.navbar-nav > li.active > a,
 #inner-navigation .navbar-sticky-in.navbar-default .header-search i:hover{
-  color: #ffac00;
+  color: #666;
 }
 
 
@@ -720,7 +720,7 @@ div#home-banner:before {
     content: '';
     height: 2px;
     width: 7%;
-    background: #ffac00;
+    background: #b13535;
     position: absolute;
     top: 45%;
     left: 0;
@@ -737,7 +737,7 @@ div#home-banner:before {
     content: '';
     height: 90%;
     width: 90%;
-    border: 5px solid #ffac00;
+    border: 5px solid #3c763d;
     position: absolute;
     top: -25px;
     left: -25px;
@@ -926,7 +926,7 @@ section#mt_services{padding:45px 0 35px;}
 
 .box:after {
     content: '';
-    background: #ffac00;
+    background: #377029;
     width: 0;
     height: 2px;
     bottom: 0;
@@ -1512,7 +1512,7 @@ section#choose_us{
 
 .choose-list {
     border-width: 1px 1px 1px 3px;
-    border-color: #f1f1f1 #f1f1f1 #f1f1f1 #ffac00;
+    border-color: #f1f1f1 #f1f1f1 #f1f1f1 #35a13e;
     border-style: solid;
     padding: 12px 12px 12px 38px;
     background: #fff;
@@ -1528,7 +1528,7 @@ section#choose_us{
     position: absolute;
     left: -27px;
     top: 30%;
-    background: #ffac00;
+    background: #b13535;
     border-radius: 5px;
     padding: 10px;
     font-size: 24px;
@@ -1729,7 +1729,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #mt_get_started .watch_inner .watch_content{
     padding: 40px;
-    background: #ffac00;
+    background: #0d4e13;
     position: absolute;
     top: 0;
     left: 0;
@@ -1897,7 +1897,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
   }
 
 #newsletter:before {
-  background: #ffac00;
+  background: #377029;
   content: '';
   height: 100%;
   width: 55%;
@@ -1925,7 +1925,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #newsletter input[type="submit"] {
     border: none;
-    background: #ffac00;
+    background: #377029;
     position: absolute;
     top: 0;
     right: 0;
@@ -1991,7 +1991,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
   bottom: -12px;
   height: 2px;
   width: 40px;
-  background: #ffac00;
+  background: #b13535;
   left: 0;
 }
 #mt_footer .footer-time {
@@ -2315,7 +2315,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 .ps_control_rotate_f .carousel-control.left:hover,
 .ps_control_rotate_f .carousel-control.right:hover{
   color: #ffffff!important;
-  background: #ffac00;
+  background: #b13535;
 }
 .ps_control_rotate_f .carousel-control.left>span:nth-child(1){
   left: 45%;
@@ -2748,7 +2748,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     content: '';
     height: 2px;
     width: 6%;
-    background: #ffac00;
+    background: #b13535;
     position: absolute;
     top: 46%;
     left: 0;
@@ -2876,7 +2876,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #pagebanner:before{
   content: '';
-  background: #00000068;
+  background:  #117819ab;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -2917,7 +2917,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 .breadcrumb-main:before {
     content: '';
-    background: #ffac00;
+    background: #b13535;
     height: 100%;
     width: 50%;
     position: absolute;
@@ -2954,7 +2954,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     position: absolute;
     left: -50px;
     top: -38px;
-    background: #ffac00;
+    background: #b13535;
     color: #fff;
     padding: 15px;
     box-shadow: -5px 0px 3px 0px #00000028;
@@ -2972,7 +2972,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 .contact-info ul li:last-child{padding: 0;}
 
-.contact-info ul li i{color: #ffac00; padding-right:5px;}
+.contact-info ul li i{color: #b13535; padding-right:5px;}
 
 .contact-inner {
     text-align: center;

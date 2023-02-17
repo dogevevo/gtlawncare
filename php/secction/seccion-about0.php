@@ -16,7 +16,7 @@
 
                     <div class="col-md-6 col-sm-12 wow slideInDown">
                         <div class="about-img">
-                            <img src="img/project/bw_12.png">
+                            <img src="img/project/2.jpg">
                         </div>
                     </div>
 

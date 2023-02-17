@@ -13,25 +13,27 @@
                         <ul class="social_icons">
                             
                             <li>
-                                <a href="#">
+                                <a href="https://www.facebook.com/">
                                     <i class="fa fa-facebook"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://twitter.com/?lang=es">
                                     <i class="fa fa-twitter"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="https://www.instagram.com/">
                                     <i class="fa fa-instagram"></i>
                                 </a>
                             </li>
+
                             <li>
-                                <a href="#">
-                                    <i class="fa fa-linkedin"></i>
+                                <a href=https://workspace.google.com/>
+                                    <i class="fa fa-google"></i>
                                 </a>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -42,25 +44,12 @@
                             <li><a href="index.php"><i class="fa fa-angle-right"></i>Home</a></li>
                             <li><a href="About.php"><i class="fa fa-angle-right"></i>About</a></li>
                             <li><a href="Services.php"><i class="fa fa-angle-right"></i>Services</a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Gallery</a></li>
-                            <li><a href="#"><i class="fa fa-angle-right"></i>Contact</a></li>
+                            <li><a href="gallery.php"><i class="fa fa-angle-right"></i>Gallery</a></li>
+                            <li><a href="contact.php"><i class="fa fa-angle-right"></i>Contact</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="mt_contact_ftr">
-                        <h3>Twitter Feed</h3>
-                        <div class="single-tweet mar-bottom-20">
-                            <p class="white">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Ed quia con sequuntur.</p>
-                            <div class="name"><i class="fa fa-twitter"></i>@Mark jugerberg</div><!-- /.name -->
-                        </div>
-
-                        <div class="single-tweet">
-                            <p class="white">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Ed quia con sequuntur.</p>
-                            <div class="name"><i class="fa fa-twitter"></i>@Mark jugerberg</div><!-- /.name -->
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="mt_post_ftr">
                         <h3>Latest Posts</h3>
@@ -139,7 +128,10 @@
     </footer>
     <!--* End Footer*-->
 
-    
+    <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="" data-placement="left">
+        <span class="fa fa-arrow-up"></span>
+    </a>
+
 
 
         <!--*Scripts*-->

@@ -93,11 +93,10 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
               
                     <div class="top-bar-right pull-right">
                         <ul>
-                          <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                          <li><a href="#"><i class="fa fa-google"></i></a></li>
-                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                          <li><a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a></li>
+                          <li><a href="https://workspace.google.com"><i class="fa fa-google"></i></a></li>
+                          <li><a href="https://twitter.com/?lang=es"><i class="fa fa-twitter"></i></a></li>
+                          <li><a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -116,25 +115,25 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                 <div id="navbar" class="navbar-nav-wrapper pull-right">
                     <ul class="nav navbar-nav navbar-right" id="responsive-menu">
                         <li  class="active">
-                            <a href="index.php">Home  </a>
+                            <a href="index.php">Home <i class="fa fa-angle-down"></i></a>
                             
                             
                         </li>
                         <li>
-                            <a href="services.php">Services</i></a>
+                            <a href="services.php">Services<i class="fa fa-angle-down"></i></a>
                             
                         </li>            
                         <li>
-                            <a href="about.php">About Us</a>
+                            <a href="about.php">About Us<i class="fa fa-angle-down"></i></a>
                             
                         </li>
                         <li>
-                            <a href="Gallery.php">Gallery </a>
+                            <a href="Gallery.php">Gallery<i class="fa fa-angle-down"></i></a>
                             
                         </li>
                         
                         <li>
-                            <a href="contact.php">Contact Us  </a>
+                            <a href="contact.php">Contact Us <i class="fa fa-angle-down"></i></a>
                               
                         </li>
 

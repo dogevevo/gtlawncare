@@ -89,22 +89,8 @@
     <!--* End Services*-->
 
     <!--=* Get Started Section*=-->
-    <section id="mt_get_started">
-        <div class="container">
-            <div class="watch_inner">
-                <img src="img/watch_inner.jpg" alt="">
-                <div class="watch_content">
-                    <h3 class="white">We Build, Your Dream</h3>
-                    <h2 class="white">Quality Comes First</h2>
-                    <p>To develop a financial strategy for your future, it's important for your financial professional to see a complete, 360-degree view of your financial picture, including how your retirement assets are intadfegrated and work with one another.</p>
-                    <a href="#" class="btn mt_btn_yellow mar-top-30">View Work Process</a>
-                </div>
-                <div class="pulses">
-                    <button type="button" class="play-btn js-video-button" data-video-id='152879427' data-channel="vimeo"><i class="fa fa-play"></i></button>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+    <?php include('php/secction/seccion-video.php')  ?>
 
 
     <br><br>

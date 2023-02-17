@@ -9,4 +9,4 @@
 <br><br><br><br><br>
 <?php include('php/secction/seccion-partner.php') ?>
 <?php include('php/secction/seccion-bg2.php') ?>
-<?php include('php/secction/footer.php') ?>
+<?php include('php/secction/footer.php') ?> 

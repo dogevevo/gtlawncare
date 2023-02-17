@@ -198,7 +198,7 @@ a {color: #181d31;}
 
 a:hover{
   text-decoration: none!important;
-  color: #ffac00!important;
+  color: #b13535!important;
   transition: all 0.4s ease; 
 }
 
@@ -472,7 +472,7 @@ section{padding:75px 0 80px; position: relative; overflow: hidden;}
     content: '';
     height: 100%;
     width: 3px;
-    background: #ffac00;
+    background: #b13535;
     position: absolute;
     top: 0;
     left: 0;
@@ -492,13 +492,13 @@ section{padding:75px 0 80px; position: relative; overflow: hidden;}
 .mt_btn_yellow,
 input[type="submit"]{
   padding: 10px 20px;
-  background: #ffac00;
+  background: #b13535;
   font-size: 15px;
   border-radius: 5px;
   display: inline-block;
   color: #ffffff;
   text-decoration: none;
-  border: 2px solid #ffac00;
+  border: 2px solid #fff;
    transition: all 0.5s ease;
 }
 
@@ -507,8 +507,8 @@ input[type="submit"]{
 input[type="submit"]:hover,
 input[type="submit"]:focus {
   color: #fff !important;
-  background-color: #ffbb2e;
-  border-color: #ffbb2e;
+  background-color: #3c763d;
+  border-color: #fff;
   transition: all 0.5s ease;
   text-shadow: initial;
   text-decoration: none; 
