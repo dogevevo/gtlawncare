@@ -24,7 +24,7 @@
                     <img src="img/partner/thum.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
-                    <img src="img/partner/home.png" alt="partner">
+                    <img src="img/partner/3.png" alt="partner">
                 </div>
                 <div class="col-sm-2">
                     <img src="img/partner/manta.png" alt="partner">
