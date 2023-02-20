@@ -75,7 +75,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
 
  <body>
     <!--PRELOADER-->
-    <div class="preloader"><div class="spinner"></div></div>
+    <div class="preloader"> <div class="spinner"></div></div>
 
     <!--*Header*-->
     <header id="inner-navigation">
