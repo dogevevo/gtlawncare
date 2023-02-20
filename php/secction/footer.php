@@ -3,7 +3,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-2 col-sm-12 col-xs-12">
-                    <div class="follow_us">
+                    <div class="follow_us" style="
+                        padding: -21px;
+                        margin: -36px -127px;
+                    ">
                         <a href="index.html">
                             <img src="img/log.png" alt="Logo">
                         </a>
@@ -55,7 +58,7 @@
                         <h3>Latest Works</h3>
                         <ul>
                             <li>
-                                <img src="img/blog/r-post-1.jpg" alt="image" />
+                               
                                 <div class="post_contnt_ftr">
                                     <p>Fri, 03-07-2018 |
                                         <span> Comment (8)</span>
@@ -66,7 +69,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="img/blog/r-post-8.jpg" alt="image" />
+                                    
                                 <div class="post_contnt_ftr">
                                     <p>Fri, 12-10-2019 |
                                         <span> Comment (10)</span>
@@ -77,7 +80,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="img/blog/r-post-5.jpg" alt="image" />
+                                
                                 <div class="post_contnt_ftr">
                                     <p>Fri, 14-07-2022 |
                                         <span> Comment (21)</span>
@@ -88,7 +91,7 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="img/blog/r-post-7.jpg" alt="image" />
+                               
                                 <div class="post_contnt_ftr">
                                     <p>Fri, 10-01-2022 |
                                        <span> Comment (10)</span>
@@ -110,7 +113,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="copy_txt">
-                            <p>&copy; Copyright 2019 - GT-LAWNCARE All rights Reserved</p>
+                            <p>&copy; Copyright 2023 - GT-LAWNCARE All rights Reserved</p>
                         </div>
                     </div>
                     <div class="col-sm-6">
