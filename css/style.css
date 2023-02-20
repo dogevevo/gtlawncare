@@ -2866,7 +2866,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 
 #pagebanner{
-  background: url(../images/pagebanner.jpg) no-repeat;
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%) no-repeat;
   background-size:100%;
   background-attachment: fixed;
   background-position: bottom;
@@ -4735,4 +4735,9 @@ p.lt-pswrd{margin-bottom: 20px;}
    -ms-animation: none !important;
    animation: none !important;
   }
+}
+
+
+.fa fa-envelope{
+  color: #fff;
 }

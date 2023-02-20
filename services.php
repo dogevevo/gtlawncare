@@ -40,7 +40,7 @@
                 
                 <div class="col-md-4 col-sm-6 col-xs-6">
                     <div class="box mar-bottom-30 text-center">
-                        <img src="img/blog-listing/2.png" alt="services-2">
+                        <img src="img/blog-listing/2.jpg" alt="services-2">
                         <div class="box-content">
                             <h3><a href="#"><?php echo $SN[1] ?></a></h3>
                             <p> <?php echo $SD[1] ?> </p>

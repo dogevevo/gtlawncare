@@ -14,7 +14,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Address='316 W 12th St Columbia TN 38401';
 
 	$PhoneName="Telefono";
-	$Phone='931 398 4588';
+	$Phone='(931)-398-4588';
+	$Phone2='(931)-334-2308';
 	$PhoneConvert = str_replace(str_split('(-)/:*?"<>|\t\n\r\O\f\i\c\e'), '', $Phone);
 	$PhoneRef = "tel:".str_replace(str_split(' '), '', $PhoneConvert);
 

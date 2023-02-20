@@ -86,7 +86,8 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                 <div class="topbar-inner">
                     <div class="top-bar-left pull-left">
                    <ul>
-                       <li><i class="fa fa-phone"></i> Phone:  <?php echo $Phone?></li>
+                       <li><i class="fa fa-phone"></i> Phone1:  <?php echo $Phone?></li>
+                       <li><i class="fa fa-phone"></i> Phone2:  <?php echo $Phone2?></li>
                        <li><i class="fa fa-envelope"></i> Email: <?php echo $Mail?></li>
                    </ul>
                     </div>
