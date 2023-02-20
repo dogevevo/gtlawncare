@@ -155,7 +155,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 
 	// footer text
 	
-	$footer = "We provide you with the best landscaping and landscaping service. We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs.";
+	$footer = "We provide you with the best landscaping and lawncare service. We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs.";
 
 $Small = array(		 
 	"10",

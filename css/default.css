@@ -68,7 +68,7 @@ body {
 /* Preloader */
 
 .preloader {
-  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  background: #3c763d;
   height: 100%;
   left: 0;
   position: fixed;

@@ -110,7 +110,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
             <div class="container">
 
                 <div class="logo pull-left">
-                    <a href="index.php"><img src="img/c-logo.png" alt=""></a>
+                    <a href="index.php"><img src="img/hea.png" alt=""></a>
                 </div>
                 
                 <div id="navbar" class="navbar-nav-wrapper pull-right">

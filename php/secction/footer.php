@@ -2,10 +2,10 @@
 <footer id="mt_footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-3 col-sm-12 col-xs-12">
+                <div class="col-md-2 col-sm-12 col-xs-12">
                     <div class="follow_us">
                         <a href="index.html">
-                            <img src="img/c-logo.png" alt="Logo">
+                            <img src="img/log.png" alt="Logo">
                         </a>
                         <p> <?php echo $footer ?></p>
 
@@ -50,6 +50,57 @@
                     </div>
                 </div>
                 
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="mt_post_ftr">
+                        <h3>Latest Works</h3>
+                        <ul>
+                            <li>
+                                <img src="img/blog/r-post-1.jpg" alt="image" />
+                                <div class="post_contnt_ftr">
+                                    <p>Fri, 03-07-2018 |
+                                        <a href="#"><span> Comment (8)</span></a>
+                                    </p>
+                                    <h4>
+                                        
+                                    </h4>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/blog/r-post-8.jpg" alt="image" />
+                                <div class="post_contnt_ftr">
+                                    <p>Fri, 03-07-2018 |
+                                        <a href="#"><span> Comment (8)</span></a>
+                                    </p>
+                                    <h4>
+                                        
+                                    </h4>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/blog/r-post-5.jpg" alt="image" />
+                                <div class="post_contnt_ftr">
+                                    <p>Fri, 03-07-2018 |
+                                        <a href="#"><span> Comment (8)</span></a>
+                                    </p>
+                                    <h4>
+                                        
+                                    </h4>
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/blog/r-post-7.jpg" alt="image" />
+                                <div class="post_contnt_ftr">
+                                    <p>Fri, 03-07-2018 |
+                                       <a href="#"><span> Comment (8)</span></a>
+                                    </p>
+                                    <h4>
+                                        
+                                    </h4>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
                 
 
             </div>

@@ -84,9 +84,9 @@ header#inner-navigation {
     position: absolute;
     top: 0;
     z-index: 9;
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(0, 0, 0, 0);
     width: 100%;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    border-bottom: 0px solid rgba(0, 0, 0, 0);
     left: 0;
 }
 
@@ -95,7 +95,7 @@ header#inner-navigation {
 #inner-navigation .navbar.navbar-sticky-in .logo img{width: auto;}
 
 #inner-navigation .logo {
-    margin: 8px 0;
+    margin: -29px -92px;
 }
 
 #inner-navigation .get-quote {
@@ -488,13 +488,14 @@ background-color: #FFFFFF !important;
 
 @media only screen and (max-width: 991px) {
     .logo-wrapper {
-        width: 50%;
+        background-image: url();
+        width: 10%;
     }
 
     .logo img{float: left;}
 
     #inner-navigation .navbar-nav-wrapper {
-        width: 0%;
+        width: 30%;
     }
     #inner-navigation .navbar {
         margin: 0;
@@ -551,7 +552,7 @@ background-color: #FFFFFF !important;
 
 #inner-navigation .navbar-sticky-in.navbar-default{
   background: #fff;
-  position: fixed;
+  position: absolute;
   top: 0;
   box-shadow: 0 0 5px #000;
 }
