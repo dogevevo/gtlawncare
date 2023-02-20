@@ -9,8 +9,7 @@
                         <h2 class="section_title">
                             <span>Fascinating Projects</span>
                         </h2>
-                        <p class="heading_txt">There are variations available majoritaey suffered alteration words which look believable 
-                        dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.</p>
+                        <p class="heading_txt"></p>
                     </div>
                 </div>
             </div>
@@ -22,7 +21,7 @@
                           <img src="img/project/gall/1.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
                             <h3 class="text-center white"><?php echo $Company ?></h3>
-                            <p class="white">Bubba likes to appear out of thin air.</p>
+                            <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
                       </div>
@@ -34,7 +33,7 @@
                           <img src="img/project/gall/2.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
                             <h3 class="text-center white"><?php echo $Company ?></h3>
-                            <p class="white">Bubba likes to appear out of thin air.</p>
+                            <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
                       </div>
@@ -46,7 +45,7 @@
                           <img src="img/project/gall/3.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
                             <h3 class="text-center white"><?php echo $Company ?></h3>
-                            <p class="white">Bubba likes to appear out of thin air.</p>
+                            <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
                       </div>
@@ -58,7 +57,7 @@
                           <img src="img/project/gall/4.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
                             <h3 class="text-center white"><?php echo $Company ?></h3>
-                            <p class="white">Bubba likes to appear out of thin air.</p>
+                            <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
                       </div>
@@ -70,7 +69,7 @@
                           <img src="img/project/gall/5.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
                             <h3 class="text-center white"><?php echo $Company ?></h3>
-                            <p class="white">Bubba likes to appear out of thin air.</p>
+                            <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
                       </div>

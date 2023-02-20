@@ -50,57 +50,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="mt_post_ftr">
-                        <h3>Latest Posts</h3>
-                        <ul>
-                            <li>
-                                <img src="img/blog/r-post-1.jpg" alt="image" />
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
-                                    </p>
-                                    <h4>
-                                        <a href="#">Unde omnis iste natus</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                                <img src="img/blog/r-post-8.jpg" alt="image" />
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
-                                    </p>
-                                    <h4>
-                                        <a href="#">Aenean a mi et risus facilisis</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                                <img src="img/blog/r-post-5.jpg" alt="image" />
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
-                                    </p>
-                                    <h4>
-                                        <a href="#">Egestas luctus urna vitae dapibuss</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                                <img src="img/blog/r-post-7.jpg" alt="image" />
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                       <a href="#"><span> Comment (8)</span></a>
-                                    </p>
-                                    <h4>
-                                        <a href="#">Egestas luctus urna vitae dapibus</a>
-                                    </h4>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+                
 
             </div>
         </div>

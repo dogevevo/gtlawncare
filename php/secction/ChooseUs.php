@@ -9,7 +9,7 @@
                         <h2 class="section_title">
                             <span>Our Special Services</span>
                         </h2>
-                        <p class="heading_txt">There are variations available majoritaey suffered alteration words which look believable.</p>
+                        <p class="heading_txt"></p>
                     </div>
                 </div>
             </div>

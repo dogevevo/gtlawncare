@@ -43,7 +43,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Promoviendo el cafe organico para cuidar de nuestra salud.",
 	);
 	
-	$gall = "Bubba likes to appear out of thin air.";
+	$gall = "lawn care, landscaping and more services";
 
 
  
@@ -57,7 +57,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		
 	$About = array(
 		"We individually assess each <br> plan and offer optimal solutions",
-		"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudexe rc itation ullamco laboris nisi ut aliquip ex ea com modo consequat. Duis aute irure.",
+		"Our lawn care services are designed to keep your lawn healthy and beautiful. We offer a variety of services including mowing, edging and fertilization. Our goal is to make your landscape look like never before!",
 		);
 		
 
@@ -72,38 +72,38 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 
 	//Services index categories 
 	$SN[0]="Lawncare Service General ";
-	$SD[0]="El cultivo de nuestros granos de cafe de alta calidad siempre nos brindan una experiencia unica.";
+	$SD[0]="Our lawn care services are designed to help you maintain the beauty and health of your lawn.";
 	$SN[1]="landscaping Service General ";
-	$SD[1]="Nos hemos adentrado en las diferentes opciones para satisfacer a nuestros clientes, de esta forma brindadoles opciones para todos los gustos.";
+	$SD[1]="Professional landscaping services: from landscape maintenance.";
 	$SN[2]="Fence Desing  Wood - Metal";
-	$SD[2]="Con servicio de envio hasta la puerta de su hogar en compras de cafe en linea, nos satisface saber que siempre nos elige al momento de realizar sus compras de su dosis diaria de energia.";
+	$SD[2]="Quality services of wooden and metal fences of good quality and durability.";
 	$SN[3]="Painting Service ";
-	$SD[3]="Hemos decidido cultivar granos de la mas alta calidad para nuestros clientes que desean probar una experiencia inolvidable en sus mañanas con sabores distinguidos que solo nuestro cafe puede ofrecerles.";
+	$SD[3]="We offer painting services with trained personnel for all types of projects.";
 	$SN[4]="Pavers Service";
-	$SD[4]="Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..";
+	$SD[4]="We offer a wide variety of paving services. From projects to large scale to small jobs for homeowners, you will find what is searching our company.";
 	$SN[5]="DriveWays Concrete";
-	$SD[5]="Excepteur sint occaecat cupi datat non proi dent, sunt in culpa qui off icia..";
+	$SD[5]="We offer driveway paving services to help make your property commercial and residential look like new.";
 	
 	//Choose Us
-	$ChooseT[0] = "Perfect Interior";
-	$Choose[0] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$ChooseT[0] = "Perfect Exterior";
+	$Choose[0] = "High-quality exteriors and exclusive materials";
 	$ChooseT[1] = "Team Of Professional";
-	$Choose[1] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$Choose[1] = "We have a team of professionals in the field with years of experience";
 	$ChooseT[2] = "Full Of Services";
-	$Choose[2] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$Choose[2] = "We have all kinds of services to meet the most complex requirements the client's.";
 	$ChooseT[3] = "27/7 Support";
-	$Choose[3] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$Choose[3] = "trabajamos todos los dias de la semana para entregar lo mas rapido posible. ";
 	$ChooseT[4] = "Unique Technology";
-	$Choose[4] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.";
+	$Choose[4] = "we have materials for all types of work and for all types of requires. ";
 	$ChooseT[5] = "Attractive Building";
-	$Choose[5] = "Dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions."; 
+	$Choose[5] = "Beautifully landscaped with soft and colorful gardens."; 
 
 	// seccion video
 
 	$Video_Text = array(
 		"We Build, Your Dream",
 		"Quality Comes First",
-		"To develop a financial strategy for your future, it's important for your financial professional to see a complete, 360-degree view of your financial picture, including how your retirement assets are intadfegrated and work with one another.",
+		"We want to help you look your best, every day. Whether you need services landscaping or a professional lawn care team, we'll give you the attention and advice you need to keep your garden looking like new.",
 		"",
 	);
 
@@ -154,7 +154,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 
 	// footer text
 	
-	$footer = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
+	$footer = "We provide you with the best landscaping and landscaping service. We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs.";
 
 $Small = array(		 
 	"10",

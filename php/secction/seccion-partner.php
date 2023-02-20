@@ -8,7 +8,7 @@
                         <h2 class="section_title">
                             <span><?php echo $Partner[0]?></span>
                         </h2>
-                        <p class="heading_txt"> <?php echo $Partner[1]?>  </p>
+                        
                     </div>
                 </div>
             </div>
