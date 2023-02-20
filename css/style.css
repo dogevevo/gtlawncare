@@ -492,7 +492,11 @@ background-color: #FFFFFF !important;
         width: 10%;
     }
 
-    .logo img{float: left;}
+    .logo img{
+      float: left;
+      width: 74%;
+      padding: 24px 72px 10px;
+    }
 
     #inner-navigation .navbar-nav-wrapper {
         width: 30%;
@@ -551,10 +555,10 @@ background-color: #FFFFFF !important;
 }
 
 #inner-navigation .navbar-sticky-in.navbar-default{
-  background: #fff;
+  background: rgb(0 0 0 / 0%);;
   position: absolute;
   top: 0;
-  box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px rgb(0 0 0 / 0%);;
 }
 
 #inner-navigation .navbar-sticky-in.navbar-default ul.nav.navbar-nav li a, 

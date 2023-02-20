@@ -58,43 +58,43 @@
                                 <img src="img/blog/r-post-1.jpg" alt="image" />
                                 <div class="post_contnt_ftr">
                                     <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
+                                        <span> Comment (8)</span>
                                     </p>
                                     <h4>
-                                        
+                                        <a href="https://www.facebook.com/"">Lawncare</a>
                                     </h4>
                                 </div>
                             </li>
                             <li>
                                 <img src="img/blog/r-post-8.jpg" alt="image" />
                                 <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
+                                    <p>Fri, 12-10-2019 |
+                                        <span> Comment (10)</span>
                                     </p>
                                     <h4>
-                                        
+                                        <a href="https://www.facebook.com/"">DriveWays Concrete</a>
                                     </h4>
                                 </div>
                             </li>
                             <li>
                                 <img src="img/blog/r-post-5.jpg" alt="image" />
                                 <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <a href="#"><span> Comment (8)</span></a>
+                                    <p>Fri, 14-07-2022 |
+                                        <span> Comment (21)</span>
                                     </p>
                                     <h4>
-                                        
+                                        <a href="https://www.facebook.com/"">ladscaping</a>
                                     </h4>
                                 </div>
                             </li>
                             <li>
                                 <img src="img/blog/r-post-7.jpg" alt="image" />
                                 <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                       <a href="#"><span> Comment (8)</span></a>
+                                    <p>Fri, 10-01-2022 |
+                                       <span> Comment (10)</span>
                                     </p>
                                     <h4>
-                                        
+                                        <a href="https://www.facebook.com/"">paiting and remodelation</a>
                                     </h4>
                                 </div>
                             </li>
