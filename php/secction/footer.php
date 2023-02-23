@@ -58,11 +58,16 @@
                     <div class="mt_contact_ftr">
                         <h3>Contact us</h3>
                         <ul>
-                            <li> <i class="fa fa-angle-right"></i> 316 W 12th St Columbia TN 38401</li></a>
-                            <li> <i class="fa fa-angle-right"></i> (931)-398-4588</li></a>
-                            <li> <i class="fa fa-angle-right"></i> reyesvictorhugo52@gmail.com</li></a>
-                            <li> <i class="fa fa-angle-right"></i> Cash, cheque & Paypall</li></a>
-                            <li> <i class="fa fa-angle-right"></i> Monday to Sunday 24/7</li></a>
+                            <li> <i class="large material-icons">location_on</i>         316 W 12th St Columbia TN 38401</li></a>
+
+                            <li> <i class="large material-icons">call</i>               (931)-398-4588</li></a>
+
+                            <li> <i class="large material-icons">mail</i>        reyesvictorhugo52@gmail.com</li></a>
+
+                            <li> <i class="large material-icons">attach_money</i> Cash, cheque & Paypall</li></a>
+
+                            <li> <i class="large material-icons">query_builder</i>  Monday to Sunday 24/7</li></a>
+
                             
                         </ul>
                     </div>

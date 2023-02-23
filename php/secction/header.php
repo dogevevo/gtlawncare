@@ -40,7 +40,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
 <!--Font Awesome-->
 <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
 
-
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 </head>
 
