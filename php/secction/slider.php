@@ -27,7 +27,7 @@
         <!-- Right Slide Text Layer -->
         <div class="caption_slide1 wow fadeInUp" data-animation="animated fadeInLeft">
             <span class="white">GT LAWNCARE</span>
-            <h1 class="white">We travel 40/60 miles negotiable</h1>
+            <h1 class="white">We travel 40/60 miles</h1>
             <p class="white mar-bottom-25"></p>
             <a href="services.php" class="btn mt_btn_yellow">View Services</a>
         </div><!-- /Right Slide Text Layer -->
@@ -41,7 +41,7 @@
         <!-- Center Slide Text Layer -->
         <div class="caption_slide1 wow fadeInDown" data-animation="animated fadeInDown">
             <span class="white">GT LAWNCARE</span>
-            <h1 class="white">With 24/7 hours negotiable</h1>
+            <h1 class="white">With 24/7 hours</h1>
             <p class="white mar-bottom-25"></p>
             <a href="services.php" class="btn mt_btn_yellow">View Services</a>
         </div><!-- /Center Slide Text Layer -->
