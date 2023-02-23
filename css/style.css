@@ -95,7 +95,8 @@ header#inner-navigation {
 #inner-navigation .navbar.navbar-sticky-in .logo img{width: auto;}
 
 #inner-navigation .logo {
-    margin: -29px -92px;
+  margin: 4px -100px;
+  width: 223px;
 }
 
 #inner-navigation .get-quote {
@@ -494,8 +495,8 @@ background-color: #FFFFFF !important;
 
     .logo img{
       float: left;
-      width: 74%;
-      padding: 24px 72px 10px;
+      width: 77%;
+      padding: 5px 90px 0px;
     }
 
     #inner-navigation .navbar-nav-wrapper {
@@ -2882,7 +2883,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
 
 #pagebanner:before{
   content: '';
-  background:  #117819ab;
+  background:  #1a281a;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -3015,7 +3016,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
     display: inline-block;
     padding: 15px 30px;
     border: 1px solid #f1f1f1;
-    background: #fbfbfb;
+    background: #5aa35c;
 }
 
 #mt_contact.contact-main .contact-info ul{margin-bottom: 0;}

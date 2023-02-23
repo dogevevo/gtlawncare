@@ -8,7 +8,7 @@
                         margin: -36px -127px;
                     ">
                         <a href="index.html">
-                            <img src="img/log.png" alt="Logo">
+                            <img src="img/new.png" alt="Logo">
                         </a>
                         <p> <?php echo $footer ?></p>
 
@@ -42,69 +42,33 @@
                 </div>
                 <div class="col-md-2 col-sm-6 col-xs-12">
                     <div class="mt_contact_ftr">
-                        <h3>Quick Links</h3>
+                        <h3>Services</h3>
                          <ul>
-                            <li><a href="index.php"><i class="fa fa-angle-right"></i>Home</a></li>
-                            <li><a href="About.php"><i class="fa fa-angle-right"></i>About</a></li>
-                            <li><a href="Services.php"><i class="fa fa-angle-right"></i>Services</a></li>
-                            <li><a href="gallery.php"><i class="fa fa-angle-right"></i>Gallery</a></li>
-                            <li><a href="contact.php"><i class="fa fa-angle-right"></i>Contact</a></li>
+                            <li><i class="fa fa-angle-right"></i>   Lawncare Service General </a></li>
+                            <li><i class="fa fa-angle-right"></i>   Landscaping Service General </a></li>
+                            <li><i class="fa fa-angle-right"></i>   Fence Desing  Wood - Metal</a></li>
+                            <li><i class="fa fa-angle-right"></i>   Painting Service </a></li>
+                            <li><i class="fa fa-angle-right"></i>   Pavers Service </a></li>
+                            <li><i class="fa fa-angle-right"></i>   DriveWays Concrete </a></li>
                         </ul>
                     </div>
                 </div>
                 
                 <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="mt_post_ftr">
-                        <h3>Latest Works</h3>
+                    <div class="mt_contact_ftr">
+                        <h3>Contact us</h3>
                         <ul>
-                            <li>
-                               
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 03-07-2018 |
-                                        <span> Comment (8)</span>
-                                    </p>
-                                    <h4>
-                                        <a href="https://www.facebook.com/"">Lawncare</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                                    
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 12-10-2019 |
-                                        <span> Comment (10)</span>
-                                    </p>
-                                    <h4>
-                                        <a href="https://www.facebook.com/"">DriveWays Concrete</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                                
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 14-07-2022 |
-                                        <span> Comment (21)</span>
-                                    </p>
-                                    <h4>
-                                        <a href="https://www.facebook.com/"">ladscaping</a>
-                                    </h4>
-                                </div>
-                            </li>
-                            <li>
-                               
-                                <div class="post_contnt_ftr">
-                                    <p>Fri, 10-01-2022 |
-                                       <span> Comment (10)</span>
-                                    </p>
-                                    <h4>
-                                        <a href="https://www.facebook.com/"">paiting and remodelation</a>
-                                    </h4>
-                                </div>
-                            </li>
+                            <li> <i class="fa fa-angle-right"></i> 316 W 12th St Columbia TN 38401</li></a>
+                            <li> <i class="fa fa-angle-right"></i> (931)-398-4588</li></a>
+                            <li> <i class="fa fa-angle-right"></i> reyesvictorhugo52@gmail.com</li></a>
+                            <li> <i class="fa fa-angle-right"></i> Cash, cheque & Paypall</li></a>
+                            <li> <i class="fa fa-angle-right"></i> Monday to Sunday 24/7</li></a>
+                            
                         </ul>
                     </div>
                 </div>
                 
+
 
             </div>
         </div>
