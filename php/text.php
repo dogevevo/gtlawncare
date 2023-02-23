@@ -92,7 +92,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$Choose[1] = "We have a team of professionals in the field with years of experience";
 	$ChooseT[2] = "Full Of Services";
 	$Choose[2] = "We have all kinds of services to meet the most complex requirements the client's.";
-	$ChooseT[3] = "27/7 Support";
+	$ChooseT[3] = "24/7 Support";
 	$Choose[3] = "trabajamos todos los dias de la semana para entregar lo mas rapido posible. ";
 	$ChooseT[4] = "Unique Technology";
 	$Choose[4] = "we have materials for all types of work and for all types of requires. ";

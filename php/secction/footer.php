@@ -82,17 +82,12 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="copy_txt">
-                            <p>&copy; Copyright 2023 - GT-LAWNCARE All rights Reserved</p>
+                            
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="made_txt">
-                           <ul class="pull-right">
-                                <li><a href="about.php">About Us</a></li>
-                                <li><a href="services.php">Services</a></li>
-                                <li><a href="gallery.php">Gallery</a></li>
-                                <li><a href="contact.php">Contact</a></li>
-                            </ul>
+                           
                         </div>
                     </div>
                 </div>
