@@ -341,7 +341,7 @@ background-color: #FFFFFF !important;
   .navbar.navbar-default.reveal-menu-home.sticky-nav .logo a img,
   .sticky-nav-white .logo a img {
     margin-top: 0px;
-    width: 150px;
+    width: 433px;
   } 
 
   .reveal-menu-home .logo a img {
@@ -495,8 +495,9 @@ background-color: #FFFFFF !important;
 
     .logo img{
       float: left;
-      width: 77%;
-      padding: 5px 90px 0px;
+      width: 70%;
+      padding: -2px 95px 8px;
+      margin: 5px 86px;
     }
 
     #inner-navigation .navbar-nav-wrapper {

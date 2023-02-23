@@ -20,7 +20,7 @@
                         <a href="img/project/gall/1.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
                           <img src="img/project/gall/1.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
-                            <h3 class="text-center white"><?php echo $Company ?></h3>
+                            <h3 class="text-center white"></h3>
                             <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
@@ -32,7 +32,7 @@
                         <a href="img/project/gall/2.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
                           <img src="img/project/gall/2.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
-                            <h3 class="text-center white"><?php echo $Company ?></h3>
+                            <h3 class="text-center white"> </h3>
                             <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
@@ -44,7 +44,7 @@
                         <a href="img/project/gall/3.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
                           <img src="img/project/gall/3.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
-                            <h3 class="text-center white"><?php echo $Company ?></h3>
+                            <h3 class="text-center white"> </h3>
                             <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
@@ -56,7 +56,7 @@
                         <a href="img/project/gall/4.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
                           <img src="img/project/gall/4.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
-                            <h3 class="text-center white"><?php echo $Company ?></h3>
+                            <h3 class="text-center white"> </h3>
                             <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>
@@ -68,7 +68,7 @@
                         <a href="img/project/gall/5.jpg" data-toggle="lightbox" data-footer="A custom footer text" data-gallery="example-gallery">
                           <img src="img/project/gall/5.jpg" class="img-fluid">
                           <div class="project-overlay text-center">
-                            <h3 class="text-center white"><?php echo $Company ?></h3>
+                            <h3 class="text-center white"> </h3>
                             <p class="white"><?php echo $gall ?></p>
                           </div>
                         </a>

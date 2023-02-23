@@ -5,9 +5,9 @@
                 <div class="col-md-2 col-sm-12 col-xs-12">
                     <div class="follow_us" style="
                         padding: -21px;
-                        margin: -36px -127px;
+                        margin: 0px 0px;
                     ">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="img/footer.png" alt="Logo">
                         </a>
                         <p> <?php echo $footer ?></p>
