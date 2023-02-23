@@ -8,7 +8,7 @@
                         margin: -36px -127px;
                     ">
                         <a href="index.html">
-                            <img src="img/new.png" alt="Logo">
+                            <img src="img/footer.png" alt="Logo">
                         </a>
                         <p> <?php echo $footer ?></p>
 

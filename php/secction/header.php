@@ -20,7 +20,7 @@ elseif ($page_name=='thank-you.php') {echo "$Company";}
 elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
 </title>    
 
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon_R.png">
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
