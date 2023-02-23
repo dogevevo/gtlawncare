@@ -55,7 +55,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                 call_to_action: "Message us", // Call to action
                 button_color: "#b13535", // Color of button
                 position: "left", // Position may be 'right' or 'left'
-                order: "facebook,whatsapp", // Order of buttons
+                order: "facebook,whatsapp,twitter", // Order of buttons
             };
             var proto = document.location.protocol,
                 host = "getbutton.io",
