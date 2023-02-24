@@ -129,7 +129,7 @@ elseif ($page_name=='contact.php') {echo "$Company | Contact";}?>
                             
                         </li>
                         <li>
-                            <a href="Gallery.php">Gallery<i class="fa fa-angle-down"></i></a>
+                            <a href="gallery.php">Gallery<i class="fa fa-angle-down"></i></a>
                             
                         </li>
                         

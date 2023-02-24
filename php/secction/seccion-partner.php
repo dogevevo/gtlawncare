@@ -15,7 +15,7 @@
 
             <div class="row slider-partner">
                 <div class="col-sm-2">
-                    <a href="https://www.angi.com/"><img src="img/partner/angi.png" alt="partner"></a>
+                    <a href="https://www.angi.com/"><img src="img/partner/Angi.png" alt="partner"></a>
                 </div>
                 <div class="col-sm-2">
                     <a href="https://www.yelp.com/"><img src="img/partner/yelp.png" alt="partner"></a>
@@ -30,7 +30,7 @@
                     <a href="https://www.manta.com/"><img src="img/partner/manta.png" alt="partner"></a>
                 </div>
                 <div class="col-sm-2">
-                    <a href="https://craigslist.org/"><img src="img/partner/crai.png" alt="partner"></a>
+                    <a href="https://craigslist.org/"><img src="img/partner/Crai.png" alt="partner"></a>
                 </div>
                 <div class="col-sm-2">
                     <a href="https://espanol.yahoo.com/?p=us"><img src="img/partner/Yah.png" alt="partner"></a>
