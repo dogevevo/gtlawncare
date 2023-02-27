@@ -297,18 +297,18 @@ $('.slider-partner').slick({
   slidesToScroll: 1,
   responsive: [
       {
-      breakpoint: 639,
+      breakpoint: 1,
       settings: {
         slidesToShow: 3,
-        slidesToScroll: 1,
+        slidesToScroll: 2,
         infinite: true,
       }
     },
     {
-      breakpoint: 480,
+      breakpoint: 1,
       settings: {
         slidesToShow: 2,
-        slidesToScroll: 1,
+        slidesToScroll: 2,
         infinite: true,
       }
     }
@@ -326,18 +326,18 @@ $('.slider-partner1').slick({
   slidesToScroll: 1,
   responsive: [
       {
-      breakpoint: 639,
+      breakpoint: 1,
       settings: {
         slidesToShow: 3,
-        slidesToScroll: 1,
+        slidesToScroll: 2,
         infinite: true,
       }
     },
     {
-      breakpoint: 480,
+      breakpoint: 1,
       settings: {
         slidesToShow: 2,
-        slidesToScroll: 1,
+        slidesToScroll: 2,
         infinite: true,
       }
     }

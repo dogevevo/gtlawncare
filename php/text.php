@@ -39,14 +39,14 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	//Slide show frases :) 
 	$Phrase = array(
 		"Nuestra reputacion ha sido construida por nuestro producto de calidad.",
-		"Cultivo Organico y excelentes resultados.",
+		"Licensed, Bonded & Insured.",
 		"Orgullo en lo que hacemos y en nuestro equipo de cultivo.",
 		"Promoviendo el cafe organico para cuidar de nuestra salud.",
 	);
 	
 	$gall = "lawn care, landscaping and more services";
 
-
+	$Insured ="At GT Lawncare, we understand the importance of protecting your investments. That's why we offer a range of insurance options to help safeguard your assets and provide peace of mind.";
  
 	//Home  etc. 
 	$Home = array(		 
