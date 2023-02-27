@@ -10,7 +10,7 @@ elseif ($page_name=='404.php') {$namepage="Not Found";}
 elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
 	$Company="GT LAWNCARE";
-	$Domain='www.GT-lawncare.com';//No dejar pleca al final del dominio
+	$Domain='www.gtlawncares.com';//No dejar pleca al final del dominio
 	$Address='316 W 12th St Columbia TN 38401';
 
 	$PhoneName="Telefono";
@@ -116,10 +116,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Super Partner",
 		"There are variations available majoritaey suffered alteration words which look believable dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.",
 	);
-
-
-
-
+	
+	
 	$Name = array(		 
 		"Espresso",
 		"Lounge ",
@@ -130,6 +128,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Arratsaldean",
 		"Egun on",
 		);
+
 
 		/*Productos Descripcion*/
 
@@ -149,13 +148,11 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	"Debusta tu tarde con el café con el tueste indicado para brindar esas sensaciones del nostalgico atardecer que reconforta con solo verlo. ",
 
 	"Nada como empezar tu día con el café que te da las energías, te brinda emociones y sensaciones solo con su increíble sabor acompañandote desde.",
-
-
-	);
+);
 
 	// footer text
 	
-	$footer = "We provide you with the best landscaping and lawncare service. <br> We create a beautiful landscape for your home or business with our <br> professional experience, we can do everything from planting flowers to <br> trimming trees and shrubs.";
+	$footer = "We provide you with the best landscaping and lawncare service. We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs.";
 	$por = "We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs."; 
 
 $Small = array(		 
