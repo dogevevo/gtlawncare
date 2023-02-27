@@ -23,9 +23,9 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOPhone='+1'.$SEOConvert;
 
 	$Mail='reyesvictorhugo52@gmail.com ';$MailRef="mailto:".$Mail;
-	$Services="Venta de cafe y Productos Derivados";
-	$Estimates="Cotizaciones o Adquisiciones al Por Mayor";
-	$Payment="Efectivo, Cheques, Tarjetas de Credito o Debito y Transferencias";
+	$Services="Commertial and Residential";
+	$Estimates="Free Estimates";
+	$Payment="Check, Credit or Debit card";
 	$Experience="";
 	$Schedule="Lunes a Viernes: 8:00am - 5:00pm";	
 	$Cover="";
