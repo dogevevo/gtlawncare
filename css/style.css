@@ -487,6 +487,20 @@ background-color: #FFFFFF !important;
 }
 
 
+@media only screen and (max-width: 1200px){
+  .logo-wrapper {
+    background-image: url();
+    width: 10%;
+  }
+
+  .logo img{
+    float: left;
+    width: 62%;
+    padding: -2px 95px 8px;
+    margin: -60px 104px;
+  }
+}
+
 @media only screen and (max-width: 991px) {
     .logo-wrapper {
         background-image: url();
@@ -495,9 +509,9 @@ background-color: #FFFFFF !important;
 
     .logo img{
       float: left;
-      width: 70%;
+      width: 62%;
       padding: -2px 95px 8px;
-      margin: 5px 86px;
+      margin: -10px 104px;
     }
 
     #inner-navigation .navbar-nav-wrapper {
@@ -2784,7 +2798,7 @@ section#mt_faq-testi .section_heading{padding: 0;}
   
   .ps_control_rotate_f .carousel-control.right{right: 0; } 
 
-  .caption_slide1{left: 10%;}
+  .caption_slide1{left: 10%; top: 31%}
 
 }
 
