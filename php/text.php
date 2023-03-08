@@ -10,7 +10,7 @@ elseif ($page_name=='404.php') {$namepage="Not Found";}
 elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
 	$Company="GT LAWNCARE";
-	$Domain='www.GT-lawncare.com';//No dejar pleca al final del dominio
+	$Domain='www.gtlawncares.com';//No dejar pleca al final del dominio
 	$Address='316 W 12th St Columbia TN 38401';
 
 	$PhoneName="Telefono";
@@ -23,9 +23,9 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	$SEOPhone='+1'.$SEOConvert;
 
 	$Mail='reyesvictorhugo52@gmail.com ';$MailRef="mailto:".$Mail;
-	$Services="Venta de cafe y Productos Derivados";
-	$Estimates="Cotizaciones o Adquisiciones al Por Mayor";
-	$Payment="Efectivo, Cheques, Tarjetas de Credito o Debito y Transferencias";
+	$Services="Commertial and Residential";
+	$Estimates="Free Estimates";
+	$Payment="Check, Credit or Debit card";
 	$Experience="";
 	$Schedule="Lunes a Viernes: 8:00am - 5:00pm";	
 	$Cover="";
@@ -39,14 +39,14 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	//Slide show frases :) 
 	$Phrase = array(
 		"Nuestra reputacion ha sido construida por nuestro producto de calidad.",
-		"Cultivo Organico y excelentes resultados.",
+		"Licensed, Bonded & Insured.",
 		"Orgullo en lo que hacemos y en nuestro equipo de cultivo.",
 		"Promoviendo el cafe organico para cuidar de nuestra salud.",
 	);
 	
 	$gall = "lawn care, landscaping and more services";
 
-
+	$Insured ="At GT Lawncare, we understand the importance of protecting your investments. That's why we offer a range of insurance options to help safeguard your assets and provide peace of mind.";
  
 	//Home  etc. 
 	$Home = array(		 
@@ -116,10 +116,8 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Super Partner",
 		"There are variations available majoritaey suffered alteration words which look believable dolor sit amet consectetuer adipiscing elit suspendisse justdo structure versions.",
 	);
-
-
-
-
+	
+	
 	$Name = array(		 
 		"Espresso",
 		"Lounge ",
@@ -130,6 +128,7 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 		"Arratsaldean",
 		"Egun on",
 		);
+
 
 		/*Productos Descripcion*/
 
@@ -149,13 +148,11 @@ elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 	"Debusta tu tarde con el café con el tueste indicado para brindar esas sensaciones del nostalgico atardecer que reconforta con solo verlo. ",
 
 	"Nada como empezar tu día con el café que te da las energías, te brinda emociones y sensaciones solo con su increíble sabor acompañandote desde.",
-
-
-	);
+);
 
 	// footer text
 	
-	$footer = "We provide you with the best landscaping and lawncare service. <br> We create a beautiful landscape for your home or business with our <br> professional experience, we can do everything from planting flowers to <br> trimming trees and shrubs.";
+	$footer = "We provide you with the best landscaping and lawncare service. We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs.";
 	$por = "We create a beautiful landscape for your home or business with our professional experience, we can do everything from planting flowers to trimming trees and shrubs."; 
 
 $Small = array(		 
